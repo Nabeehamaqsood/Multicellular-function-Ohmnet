@@ -1,0 +1,32 @@
+# Datasets (large, downloadable from SNAP) and archives
+*.tar.gz
+bio-tissue-hierarchy/
+bio-tissue-labels/
+bio-tissue-networks/
+
+# Third-party research papers (copyrighted)
+1707.04638v1.pdf
+bodenhofer2011.pdf
+lippert2010.pdf
+magger2012.pdf
+radivojac2013.pdf
+rolland2014.pdf
+zitnik2015.pdf
+Predicting Multicellular Function through Multi-layer Tissue Network.pdf
+
+# Python / Jupyter / OS
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.DS_Store
+Thumbs.db
+*.emb
+
+# Unused extracted images
+images/a2.png
+images/c_compare.png
+images/c_gnn_vs_ohm.png
+images/v_loss.png
+images/v_perf.png
+images/v_tsne.png
